@@ -1,0 +1,42 @@
+html {
+    background-color:rgb(235, 212, 139);
+    margin-left:100px;
+    margin-right:100px;
+    font-family: 'Calibri', "Times", "sans-serif";
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+}
+.title {
+    text-align: center;
+    font-size:60px;
+}
+
+.introduction {
+    text-align: center;
+}
+ul,ol {
+    font-size: 20px;
+}
+
+.chai_image {
+    display: block;
+    margin : auto;
+    width: auto;
+}
+.baked_potatoes_image {
+    display: block;
+    margin : auto;
+    width: auto;
+}
+.coffee_image {
+    display: block;
+    margin : auto;
+    width: auto;
+}
